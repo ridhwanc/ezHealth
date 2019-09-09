@@ -1,4 +1,4 @@
-# 2XB3: ezHealth Application
+#  ezHealth Application
 This application takes in a user input of a budget and then outputs a the most varied and healthy wholesale foods that can be bought as a grocery list given the previously mentioned budget.
 Final project repository for 2XB3 - the project folder structure is outlined below.
 
@@ -12,17 +12,6 @@ The program will then generate traces.txt which contains a saved copy of the out
 # Eclipse Exports
 Holds the archive files of our final project submissions from Eclipse.
 
-# _data
-All databases and data processing files go here.
-
-# _documentation
-All PDF 2xb3 course documents that relate to the project in any way go here.
-
-# _log
-All project log sheets, and project progress sheets go here.
-
-# _minutes
-All meeting minute sheets go here.
 
 # _src
 All Java source files go here.
