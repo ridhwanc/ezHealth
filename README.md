@@ -2,7 +2,7 @@
 This application takes in a user input of a budget and then outputs a the most varied and healthy wholesale foods that can be bought as a grocery list given the previously mentioned budget.
 Final project repository for 2XB3 - the project folder structure is outlined below.
 
-BY: Rehan Theiveehathasan, Edwin Do, Timothy Chen, Brian Kibazohi, Ridhwan Chowdhury
+BY: Ridhwan Chowdhury, Rehan Theiveehathasan, Edwin Do, Timothy Chen, Brian Kibazohi
 
 # How to Deploy
 Either compile with javac, or import the archive file named ezHealth_Final.zip found in Eclipse Exports into Eclipse, and run Read.java (this is the file that contains the main method).
